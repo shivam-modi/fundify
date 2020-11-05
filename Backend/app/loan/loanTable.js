@@ -28,3 +28,5 @@ class LoanTable{
         })
     }
 }
+
+module.exports = LoanTable

@@ -67,3 +67,5 @@ router.get('/authenticated', (req, res, next) => {
        .then(({authenticated}) => res.json({authenticated}))
        .catch(error => next(error));
 })
+
+module.exports = router
