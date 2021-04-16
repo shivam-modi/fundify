@@ -1,3 +1,3 @@
-const APP_SECRET = '$h1vAm@7%';
+const APP_SECRET = '*********';
 
 module.exports = { APP_SECRET };
